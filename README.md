@@ -1,6 +1,6 @@
 # flutter_notes_app
 
-My first Flutter project.
+My first Flutter project. This is simple flutter notes app.
 
 ## Getting Started
 
